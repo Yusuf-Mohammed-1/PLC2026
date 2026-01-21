@@ -2,5 +2,5 @@ You can more conveniently compile and run a java program in this folder (ie java
 by executing the following command (assuming you have cd'd to this folder):
 // edit made by student
 bash compile-run-java.sh <class_name>.java 
-
+// edit 2
 Please use the TAB key to complete the program name and the file name when typing the above.
